@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "label": "before",
+    "n": 21,
+    "format_rate": 0.047619047619047616,
+    "content_rate": 0.0,
+    "both_rate": 0.0,
+    "seconds": 19.6
+  },
+  "rows": [
+    {
+      "question": "パスワード再設定はどこから申請しますか",
+      "raw": "{\"answer\": \"社内ポータルの「パスワード再設定」\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "パスワードを再発行するための申請場所はどこですか",
+      "raw": "{\"answer\": \"社内ポータルの「パスワード再設定」\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "忘れたパスワードを再設定したい場合の手続きを教えてください",
+      "raw": "{\"answer\": \"社内ポータルの「パスワード再設定」から申請します\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "社外で社内システムを利用する際の接続方法は何ですか",
+      "raw": "{\"answer\": \"会社支給PCでVPNに接続します\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "在宅で社内システムを使うためのPCと接続方法を教えてください",
+      "raw": "{\"answer\": \"社外から社内システムを利用する場合は、会社支給PCでVPNに接続します。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "会社の外からアクセスするときは何を使って接続しますか",
+      "raw": "{\"answer\": \"会社支給PCでVPNに接続します\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "ソフトウェア導入の申請先と必要な承認を教えてください",
+      "raw": "{\"answer\": \"IT申請フォームから申請し、上長の承認を受けます\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "ソフトの導入にはどのフォームと誰の承認が必要ですか",
+      "raw": "{\"answer\": \"IT申請フォームから申請し、上長の承認を受けます\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "アプリケーションを導入する際の申請方法を教えてください",
+      "raw": "{\"answer\": \"ソフトウェアの導入はIT申請フォームから申請し、上長の承認を受けます。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "パソコン紛失時に最初に取る対応は何ですか",
+      "raw": "{\"answer\": \"PCを紛失した場合は、直ちにIT窓口へ連絡します。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "会社支給のパソコンを紛失したときの連絡先と対応時期を教えてください",
+      "raw": "{\"answer\": \"IT窓口へ連絡します\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "PCをなくしてしまったときはどのように対応すればよいですか",
+      "raw": "{\"answer\": \"PCを紛失した場合は、直ちにIT窓口へ連絡します。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "IT窓口は何曜日の何時から何時まで受け付けていますか",
+      "raw": "{\"answer\": \"平日の9:00〜17:00\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "IT窓口の受付曜日と時間帯を教えてください",
+      "raw": "{\"answer\": \"平日の9:00〜17:00\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "ITサポートはいつからいつまで問い合わせを受け付けていますか",
+      "raw": "{\"answer\": \"平日の9:00〜17:00\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "IT窓口の問い合わせメールアドレスは何ですか",
+      "raw": "{\"answer\": \"IT窓口の受付時間ですが、問い合わせメールアドレスは記載されていません\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "IT窓口から回答が来るまで何営業日かかりますか",
+      "raw": "{\"answer\": \"1\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "VPNの利用申請が承認されるまで何日かかりますか",
+      "raw": "{\"answer\": \"確認が必要\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "PCを交換する際に持参する書類は何ですか",
+      "raw": "{\"answer\": \"IT申請フォームから申請し、上長の承認を受けます\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "ソフトウェア導入の承認者である上長が不在のときは誰が代行しますか",
+      "raw": "{\"answer\": \"IT申請フォームから申請し、上長の承認を受けます。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "パスワードの有効期限は何日ですか",
+      "raw": "{\"answer\": \"確認が必要\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    }
+  ]
+}
